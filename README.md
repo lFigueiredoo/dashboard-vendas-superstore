@@ -1,8 +1,8 @@
-#Análise de Vendas - Superstore 📈
+Análise de Vendas - Superstore 📈
 Visão Geral do Projeto
 Este projeto consiste na criação de um dashboard interativo no Power BI para analisar o desempenho de vendas da "Superstore", uma empresa fictícia de varejo. O objetivo é fornecer uma ferramenta de Business Intelligence que permita a exploração de dados e a identificação de tendências, sazonalidades e insights sobre o faturamento, produtos e clientes.
 
-Veja o Dashboard Interativo aqui![https://app.powerbi.com/links/YPr6q0uGI8?ctid=9429526c-cbfb-4313-b93c-e286f9c80274&pbi_source=linkShare&bookmarkGuid=f86b4e70-59eb-4c99-8b1d-2a48090946d6]
+Veja o Dashboard Interativo aqui!
 
 Demonstração da Interatividade
 Ferramentas Utilizadas
@@ -45,6 +45,6 @@ Desempenho por Categoria: A categoria de Tecnologia, apesar de ter menos pedidos
 Contato
 Luiz Carlos Figueiredo Cabral
 
-LinkedIn[https://www.linkedin.com/in/figueiredo-luiz]
+LinkedIn
 
 Email: figueiredocabralluizcarlos@gmail.com
